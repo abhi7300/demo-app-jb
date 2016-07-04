@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android\Projects\DemoAppJB\DemoApp\app\libs\android-support-v4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_f1fb26163e19bfad3ce23e6e7cdcdc69bbd6acee\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_a4272eb0d4ffcb495b84aa9bfc7b868bb9085007\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\Projects\DemoAppJB\DemoApp\app\libs\jackson-mapper-asl-1.9.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="95400a7922ce75383866eb72f6ef4a7897923945">
+        <dex dex="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\jackson-mapper-asl-1.9.2_b01d99240ae37ac28164ca2671995b23309bbcb8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_cf369db033aa4a6168ba5bafd920add9f2a0b37f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f2cdc1737c6a740d41215ac6c6048615628d9048">
+        <dex dex="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_de7edd95b35223082a17145d4b7270dda83eb1f3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\Projects\DemoAppJB\DemoApp\app\libs\spring-web-3.2.1.RELEASE.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0e45a35446b311f401de84d93330a5dbdbfc4c70">
+        <dex dex="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\spring-web-3.2.1.RELEASE_6af1468726671c99bd8aa92b03729b431ce0eb57\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_34c0a2cf49b7f22ca1c56e28d869dc861f8da963\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_0cf3d10c35e3a85c12847a4ae04cc53252341eed\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\Projects\DemoAppJB\DemoApp\app\libs\commons-logging.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2d859791fbf7d880591864bd4004d8442a8a3b81">
+        <dex dex="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-logging_5b69dcbe8b5b240260b1c3afd39b65e91f2347cb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\Projects\DemoAppJB\DemoApp\app\libs\jackson-core-asl-1.9.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8493982bba1727106d767034bd0d8e77bc1931a9">
+        <dex dex="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\jackson-core-asl-1.9.2_2a917e3e693605e4237497f81b3fc6c0640b959a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\Projects\DemoAppJB\DemoApp\app\libs\commons-io-1.3.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b6dde38349ba9bb5e6ea6320531eae969985dae5">
+        <dex dex="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-io-1.3.2_36d9ce8425e4d86315dd3232a528d81aee5ab6d3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_531320252dc06a954837fea93b1eb71d23f6d93d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fb0cbcb1d42efb8597cf49fcfb972e0b6daa3ca3">
+        <dex dex="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1ece4dc6202ef23dc14e9e6982ffab430a90e36f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_a20ba3082537d45550fffa28c4dd3a7cb5302807\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\Projects\DemoAppJB\DemoApp\app\libs\spring-core-3.2.1.RELEASE.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5d4de12a025fcfe3be8e85d3e2ff4686e227287a">
+        <dex dex="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\transforms\dex\debug\folders\1000\2\spring-core-3.2.1.RELEASE_b200212c4cf3d241d876b9d5c42f9a9294ac23a9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Android\Projects\DemoAppJB\DemoApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_c9caf82d16a7099783bbbfb197dcc4d9c9dd537e\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Android\\Projects\\DemoAppJB\\DemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\policy_aleart_big.png",
+        "source": "C:\\Android\\Projects\\DemoAppJB\\DemoApp\\app\\src\\main\\res\\drawable-ldpi-v4\\policy_aleart_big.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\DemoAppJB\\DemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\buy_new_policy_big.png",
+        "source": "C:\\Android\\Projects\\DemoAppJB\\DemoApp\\app\\src\\main\\res\\drawable-ldpi-v4\\buy_new_policy_big.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\DemoAppJB\\DemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\my_dashboard_big.png",
+        "source": "C:\\Android\\Projects\\DemoAppJB\\DemoApp\\app\\src\\main\\res\\drawable-ldpi-v4\\my_dashboard_big.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\DemoAppJB\\DemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "C:\\Android\\Projects\\DemoAppJB\\DemoApp\\app\\src\\main\\res\\drawable-ldpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\DemoAppJB\\DemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\renew_policy_big.png",
+        "source": "C:\\Android\\Projects\\DemoAppJB\\DemoApp\\app\\src\\main\\res\\drawable-ldpi-v4\\renew_policy_big.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\DemoAppJB\\DemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\app_icon.png",
+        "source": "C:\\Android\\Projects\\DemoAppJB\\DemoApp\\app\\src\\main\\res\\drawable-ldpi-v4\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\DemoAppJB\\DemoApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\intimate_claim_big.png",
+        "source": "C:\\Android\\Projects\\DemoAppJB\\DemoApp\\app\\src\\main\\res\\drawable-ldpi-v4\\intimate_claim_big.png"
+    }
+]
